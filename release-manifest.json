@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "channel": "stable",
   "notes": "自动构建版本",
   "publishedAt": "2026-08-22",
   "assets": {
     "windows": {
-      "url": "https://github.com/yueyang2009/xiaoyang-workbench-releases/releases/download/v1.0.0/workbench.exe",
-      "sha256": "af92f1102574e019bf73003e4c73ba9f8796f5207b60f4e07a4f700dadf6e33e",
-      "size": 21478146
+      "url": "https://github.com/yueyang2009/xiaoyang-workbench-releases/releases/download/v1.0.1/workbench.exe",
+      "sha256": "abed118991bf055b2f49ae79008a8b9bd7394e5cd817220ea251eb28b17068c9",
+      "size": 21482542
     }
   }
 }
